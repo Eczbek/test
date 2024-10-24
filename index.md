@@ -5,4 +5,4 @@ title: title here
 
 # asdasdfasdfasdf
 
-[main](docs/main.md)
+[main](_docs/main.md)
